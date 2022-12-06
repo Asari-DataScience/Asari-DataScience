@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Visitor Count
+### Hello World!
 
 ![Visitor Count](https://profile-counter.glitch.me/Asari-DataScience/count.svg)
 
